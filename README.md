@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/24hours/Salt.svg?branch=master)](https://travis-ci.org/24hours/Salt)
 SALT
 ----
 Http Wrapper on Golang
